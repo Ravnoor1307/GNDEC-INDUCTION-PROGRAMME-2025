@@ -1,7 +1,7 @@
 # GNDEC-INDUCTION-PROGRAMME-2025
 
 This repository contains my induction report for B.Tech 1st year(2025 2026)
-<br>
+
 DAY 1:
 <br>
 My journey at Guru Nanak Dev Engineering College began on 1st August 2025, a day that I will always cherish as the foundation of my college life. All the IT and CSE students assembled at the Seminar Workshop Hall, where we were welcomed with a sense of enthusiasm and anticipation. The day commenced with an assessment test designed to evaluate our skills in Mathematics and English, setting an academic tone for what lies ahead.
