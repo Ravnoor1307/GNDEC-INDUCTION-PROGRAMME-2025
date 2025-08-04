@@ -4,42 +4,46 @@ This repository contains my induction report for B.Tech 1st year(2025 2026)
 DAY 1:
 <br>
 
-My first day at Guru Nanak Dev Engineering College, Ludhiana was filled with excitement, positivity, and inspiration. As a newly admitted CSE/IT student, I felt truly welcomed and encouraged for the journey ahead.
+My first day at Guru Nanak Dev Engineering College, Ludhiana was filled with excitement, positivity, and inspiration. As a newly admitted CSE/IT student, I felt truly welcomed and encouraged for the journey ahead.  
 <br>
 
-The day began on a spiritual and peaceful note with Path and Kirtan at the College Gurudwara Sahib. It was a beautiful way to start our new chapter, as we all prayed for blessings and success in our future.
+The day began on a spiritual and peaceful note with Path and Kirtan at the College Gurudwara Sahib. It was a beautiful way to start our new chapter, as we all prayed for blessings and success in our future.  
 <br>
 
-After that, we were introduced to the rich history and achievements of the college through a college orientation presentation. It gave us a good understanding of the legacy and values GNDEC stands for. We also watched a motivational video featuring proud alumni Sangam Arora and Arshpreet Singh (Batch 2025), who shared how dedication, involvement in college activities, and hard work helped them achieve great success in life. Their stories were truly inspiring.
+After that, we were introduced to the rich history and achievements of the college through a college orientation presentation. It gave us a good understanding of the legacy and values GNDEC stands for. We also watched a motivational video featuring proud alumni Sangam Arora and Arshpreet Singh (Batch 2025), who shared how dedication, involvement in college activities, and hard work helped them achieve great success in life. Their stories were truly inspiring.  
 <br>
 
-There were also motivational speeches and welcome addresses from several senior faculty members, including:
+There were also motivational speeches and welcome addresses from several senior faculty members, including:  
 <br>
-Dr. Sehijpal Singh (Principal)
+Dr. Sehijpal Singh (Principal)  
 <br>
-Dr. Harpreet Kaur Grewal (HoD, Applied Sciences)
+Dr. Harpreet Kaur Grewal (HoD, Applied Sciences)  
 <br>
-Dr. Akshay Girdhar (Dean Academics)
+Dr. Akshay Girdhar (Dean Academics)  
 <br>
-Dr. Parminder Singh (Dean Student Welfare)
+Dr. Parminder Singh (Dean Student Welfare)  
 <br>
-Each of them shared thoughtful messages, encouraging us to work hard, stay focused, and enjoy the learning process.
-<br>
-
-We also had the honor of listening to our Guests of Honour:
-<br>
-Er. Ravinder Garg – Chief Engineer, Municipal Corporation, Ludhiana
-<br>
-Er. Rakesh Kumar – GNDEC Alumnus (Batch 1991), ADC Ludhiana
-<br>
-They shared their life journeys and gave us valuable advice on how to grow with skills, values, and a clear vision for the future.
+Each of them shared thoughtful messages, encouraging us to work hard, stay focused, and enjoy the learning process.  
 <br>
 
-The event concluded with a Vote of Thanks by Dr. K.S. Mann, HoD IT, who welcomed us warmly into the GNDEC family and appreciated everyone who made the event successful.
+A special session was conducted by the NCC team, where they introduced us to the discipline, values, and opportunities that come with joining NCC. A short documentary and team interaction inspired many students to consider participating in this prestigious student force.  
 <br>
 
-Overall, the first day was filled with warmth, encouragement, and inspiration. It made me feel proud to be a part of GNDEC and excited for the next four years of learning, growth, and innovation.
+We also had the honor of listening to our Guests of Honour:  
 <br>
+Er. Ravinder Garg – Chief Engineer, Municipal Corporation, Ludhiana  
+<br>
+Er. Rakesh Kumar – GNDEC Alumnus (Batch 1991), ADC Ludhiana  
+<br>
+They shared their life journeys and gave us valuable advice on how to grow with skills, values, and a clear vision for the future.  
+<br>
+
+The event concluded with a Vote of Thanks by Dr. K.S. Mann, HoD IT, who welcomed us warmly into the GNDEC family and appreciated everyone who made the event successful.  
+<br>
+
+Overall, the first day was filled with warmth, encouragement, and inspiration. It made me feel proud to be a part of GNDEC and excited for the next four years of learning, growth, and innovation.  
+<br>
+
 
 DAY 2:
 
@@ -47,9 +51,6 @@ My journey at Guru Nanak Dev Engineering College began on 1st August 2025, a day
 <br>
 
 After the two-hour test, we were guided to the college auditorium for an insightful seminar. The session was titled “Food – A Pivotal Role in a Student’s Overall Wellness”, delivered by Dr. Arshdeep Singh from Punjab Agricultural University. The seminar highlighted the profound impact of nutrition on our academic performance, mental health, and lifestyle. It was both informative and thought-provoking, leaving us more aware of how our dietary choices influence our productivity and well-being.
-<br>
-
-An interesting highlight of the day was the presentation by the NCC team, which included a brief introduction and a short documentary showcasing the team’s discipline, achievements, and opportunities available for students. It was inspiring to witness the spirit of service and commitment that the NCC team upheld.
 <br>
 
 What made the day even more special was the beautifully decorated campus, full of life and energy. From colorful banners to inspiring quotes, the entire environment was carefully curated to celebrate the arrival of the new batch. The kindness and hospitality shown by the staff and seniors added to the charm of the occasion.
