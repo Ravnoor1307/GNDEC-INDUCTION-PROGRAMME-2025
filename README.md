@@ -89,9 +89,6 @@ The final session was conducted by the Causmic Club. The members gave us a detai
 DAY 5:
 <br>
 
-### DAY 5:
-<br>
-
 The fifth day of the induction program at GNDEC was yet another meaningful and knowledge-filled experience.  
 <br>
 
