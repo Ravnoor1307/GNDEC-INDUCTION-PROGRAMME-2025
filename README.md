@@ -6,23 +6,16 @@ DAY 1:
 
 My first day at Guru Nanak Dev Engineering College, Ludhiana was filled with excitement, positivity, and inspiration. As a newly admitted CSE/IT student, I felt truly welcomed and encouraged for the journey ahead.  
 <br>
-
 The day began on a spiritual and peaceful note with Path and Kirtan at the College Gurudwara Sahib. It was a beautiful way to start our new chapter, as we all prayed for blessings and success in our future.  
 <br>
 
 After that, we were introduced to the rich history and achievements of the college through a college orientation presentation. It gave us a good understanding of the legacy and values GNDEC stands for. We also watched a motivational video featuring proud alumni Sangam Arora and Arshpreet Singh (Batch 2025), who shared how dedication, involvement in college activities, and hard work helped them achieve great success in life. Their stories were truly inspiring.  
 <br>
-
 There were also motivational speeches and welcome addresses from several senior faculty members, including:  
-<br>
 Dr. Sehijpal Singh (Principal)  
-<br>
 Dr. Harpreet Kaur Grewal (HoD, Applied Sciences)  
-<br>
 Dr. Akshay Girdhar (Dean Academics)  
-<br>
 Dr. Parminder Singh (Dean Student Welfare)  
-<br>
 Each of them shared thoughtful messages, encouraging us to work hard, stay focused, and enjoy the learning process.  
 <br>
 
@@ -30,20 +23,15 @@ A special session was conducted by the NCC team, where they introduced us to the
 <br>
 
 We also had the honor of listening to our Guests of Honour:  
-<br>
 Er. Ravinder Garg – Chief Engineer, Municipal Corporation, Ludhiana  
-<br>
 Er. Rakesh Kumar – GNDEC Alumnus (Batch 1991), ADC Ludhiana  
-<br>
 They shared their life journeys and gave us valuable advice on how to grow with skills, values, and a clear vision for the future.  
 <br>
 
-The event concluded with a Vote of Thanks by Dr. K.S. Mann, HoD IT, who welcomed us warmly into the GNDEC family and appreciated everyone who made the event successful.  
+The event concluded with a Vote of Thanks by Dr. K.S. Mann, HoD IT, who welcomed us warmly into the GNDEC family and appreciated everyone who made the event successful. 
 <br>
-
 Overall, the first day was filled with warmth, encouragement, and inspiration. It made me feel proud to be a part of GNDEC and excited for the next four years of learning, growth, and innovation.  
 <br>
-
 
 DAY 2:
 
@@ -97,3 +85,26 @@ The third session of the day was Universal Human Values – Part 2, held in the 
 
 The final session was conducted by the Causmic Club. The members gave us a detailed overview of the club’s activities, achievements, and how students could be part of it. Their presentation was energetic and inspiring, showing us how GNDEC provides a platform not only for academics but also for leadership, creativity, and community building
 <br>
+
+DAY 5:
+<br>
+
+### DAY 5:
+<br>
+
+The fifth day of the induction program at GNDEC was yet another meaningful and knowledge-filled experience.  
+<br>
+
+The first lecture of the day was "Mathematics", conducted by Prof. Sandeep Kaur. She had a bold and confident voice that immediately grabbed everyone’s attention. She began by introducing herself and then delivered a beautiful and clear lecture on **Differential Equations**. We learned what differential equations are, along with the concepts of"Order and Degree". She also solved some example questions, which helped us understand the topic better.  
+<br>
+
+The second lecture was a "Programming for Problem Solving (PPS)" session, specifically focusing on "C++". It was conducted by our seniors, who gave us a beginner-friendly introduction to C++ and programming logic. Their examples and explanations were easy to follow, and they encouraged us to practice regularly.  
+<br>
+
+The third and final lecture of the day was "BEEE (Basic Electrical and Electronics Engineering)" by Prof. Sukhpal Singh from the Electrical Engineering department. He explained the **syllabus**, **marking scheme**, and shared tips on how to score well in the subject. He also asked some basic questions related to electricity and circuits to check our understanding and make the class interactive.  
+<br>
+
+The day ended with this informative session, and we left the classroom feeling more aware and motivated. Every session today helped us take one more step towards being better students and responsible engineers.  
+<br>
+
+
