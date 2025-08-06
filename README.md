@@ -98,10 +98,34 @@ The first lecture of the day was "Mathematics", conducted by Prof. Sandeep Kaur.
 The second lecture was a "Programming for Problem Solving (PPS)" session, specifically focusing on "C++". It was conducted by our seniors, who gave us a beginner-friendly introduction to C++ and programming logic. Their examples and explanations were easy to follow, and they encouraged us to practice regularly.  
 <br>
 
-The third and final lecture of the day was "BEEE (Basic Electrical and Electronics Engineering)" by Prof. Sukhpal Singh from the Electrical Engineering department. He explained the **syllabus**, **marking scheme**, and shared tips on how to score well in the subject. He also asked some basic questions related to electricity and circuits to check our understanding and make the class interactive.  
+The third and final lecture of the day was "BEEE (Basic Electrical and Electronics Engineering)" by Prof. Sukhpal Singh from the Electrical Engineering department. He explained the **syllabus**, **marking scheme**, and shared tips on how to score well in the subject. He also asked some basic questions related to electricity and circuits to check our understanding and make the class interactive. 
+ 
 <br>
 
 The day ended with this informative session, and we left the classroom feeling more aware and motivated. Every session today helped us take one more step towards being better students and responsible engineers.  
 <br>
 
+DAY 6:
+<br>
+
+The sixth day at Guru Nanak Dev Engineering College began with a sense of enthusiasm and eagerness to explore more.  
+<br>
+
+The first session was conducted by our seniors and focused on **Programming for Problem Solving (PPS)** with a deep dive into **C++ programming**. The session was engaging and informative, filled with interactive coding examples that helped clarify fundamental programming concepts. It was a great opportunity to learn from experienced seniors and get a glimpse into the world of coding.  
+<br>
+
+Next, we had an insightful lecture by **Prof. Sukhpal Singh** from the **Electrical Engineering Department**, where he introduced us to the basics of **BEEE (Basic Electrical and Electronics Engineering)**. His lecture focused on the **fundamentals of Direct Current (DC)**. With his clear and confident teaching style, he not only explained the theoretical concepts but also encouraged us to understand their real-world applications.  
+<br>
+
+Following the lectures, we were given a **1.5-hour break**. During this time, we explored different parts of the campus, including the well-equipped **sports department**, which left us impressed with the facilities available for various indoor and outdoor games. This break offered a refreshing pause and gave us a chance to bond with our classmates.  
+<br>
+
+Post-break, we had the privilege of attending a motivating session by **S. Gursharan Singh Garewal**, who shared valuable insights into the **rich legacy, culture, and historic achievements of GNDEC**. His passionate narration deepened our appreciation for the college's glorious past and inspired us to contribute meaningfully to its future.  
+<br>
+
+The final lecture of the day was on **CML (Communication and Management Lab)**, delivered by **Dr. Lakhvir Singh Khana**. He emphasized the importance of effective communication, leadership qualities, and time management in our academic journey and future careers. His session was thought-provoking and encouraged us to focus on developing both technical and soft skills.  
+<br>
+
+The day concluded on a joyful note, filled with light-hearted conversations and laughter with friends, making it another memorable chapter of our induction week.  
+<br>
 
